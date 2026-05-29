@@ -4,13 +4,11 @@ import { routeTree } from "./routeTree.gen";
 
 export const getRouter = () => {
   const queryClient = new QueryClient();
-
   const router = createRouter({
     routeTree,
-    context: { queryClient },
+    context: { queryClient, auth: { isAuthenticated: false, role: null } },
     scrollRestoration: true,
     defaultPreloadStaleTime: 0,
   });
-
   return router;
 };
