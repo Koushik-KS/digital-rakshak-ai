@@ -1,0 +1,21 @@
+[
+  { "upiId": "amazon@apl", "receiverName": "Amazon India", "category": "E-commerce" },
+  { "upiId": "flipkart@axisbank", "receiverName": "Flipkart Internet Pvt Ltd", "category": "E-commerce" },
+  { "upiId": "bescom@sbi", "receiverName": "BESCOM Electricity Board", "category": "Utility" },
+  { "upiId": "tneb@hdfc", "receiverName": "TNEB Electricity", "category": "Utility" },
+  { "upiId": "indianoil@sbi", "receiverName": "Indian Oil Corporation", "category": "Fuel" },
+  { "upiId": "irctc@sbi", "receiverName": "IRCTC", "category": "Government" },
+  { "upiId": "incometax@gov", "receiverName": "Income Tax Department", "category": "Government" },
+  { "upiId": "lic@hdfc", "receiverName": "LIC of India", "category": "Insurance" },
+  { "upiId": "swiggy@ybl", "receiverName": "Swiggy", "category": "Food Delivery" },
+  { "upiId": "zomato@paytm", "receiverName": "Zomato", "category": "Food Delivery" },
+  { "upiId": "bsnl@sbi", "receiverName": "BSNL Telecom", "category": "Telecom" },
+  { "upiId": "airtel@axis", "receiverName": "Bharti Airtel", "category": "Telecom" },
+  { "upiId": "jio@hdfc", "receiverName": "Reliance Jio", "category": "Telecom" },
+  { "upiId": "uber@paytm", "receiverName": "Uber India", "category": "Transport" },
+  { "upiId": "ola@axisbank", "receiverName": "Ola Cabs", "category": "Transport" },
+  { "upiId": "mygov@sbi", "receiverName": "MyGov India", "category": "Government" },
+  { "upiId": "pmcares@sbi", "receiverName": "PM CARES Fund", "category": "Government" },
+  { "upiId": "hdfcbank@hdfc", "receiverName": "HDFC Bank", "category": "Banking" },
+  { "upiId": "icicibank@icici", "receiverName": "ICICI Bank", "category": "Banking" }
+]
