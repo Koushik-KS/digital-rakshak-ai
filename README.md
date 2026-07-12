@@ -1,18 +1,19 @@
 # 🛡️ DigitalRakshak AI
 
-DigitalRakshak AI is an AI-powered cybersecurity web application that helps users detect and prevent digital fraud by analyzing suspicious URLs, UPI payment requests, and messages.
+DigitalRakshak AI is an AI-powered cybersecurity web application designed to help users identify and prevent digital fraud. It analyzes suspicious URLs, UPI payment requests, and messages to provide intelligent risk assessments and improve online safety.
 
 ## 🚀 Live Demo
 
-https://digital-rakshak-ai.vercel.app
+🌐 https://digital-rakshak-ai.vercel.app
 
 ## ✨ Features
 
 - AI-powered URL Scanner
 - UPI Transaction Verification
+- Suspicious Message Detection
 - Fraud Risk Analysis
 - Security Dashboard
-- Responsive UI
+- Responsive User Interface
 
 ## 🛠️ Tech Stack
 
@@ -29,3 +30,5 @@ https://digital-rakshak-ai.vercel.app
 **Koushik KS**
 
 GitHub: https://github.com/Koushik-KS
+
+⭐ If you found this project interesting, feel free to star the repository.
